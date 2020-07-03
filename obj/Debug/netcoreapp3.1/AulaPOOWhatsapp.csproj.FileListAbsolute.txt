@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\bin\Debug\netcoreapp3.1\AulaPOOWhatsapp.exe
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\bin\Debug\netcoreapp3.1\AulaPOOWhatsapp.deps.json
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\bin\Debug\netcoreapp3.1\AulaPOOWhatsapp.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\bin\Debug\netcoreapp3.1\AulaPOOWhatsapp.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\bin\Debug\netcoreapp3.1\AulaPOOWhatsapp.dll
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\bin\Debug\netcoreapp3.1\AulaPOOWhatsapp.pdb
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\obj\Debug\netcoreapp3.1\AulaPOOWhatsapp.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\obj\Debug\netcoreapp3.1\AulaPOOWhatsapp.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\obj\Debug\netcoreapp3.1\AulaPOOWhatsapp.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\obj\Debug\netcoreapp3.1\AulaPOOWhatsapp.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\obj\Debug\netcoreapp3.1\AulaPOOWhatsapp.dll
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\obj\Debug\netcoreapp3.1\AulaPOOWhatsapp.pdb
+D:\Thiago\Projetos\C#\AulaPOOWhatsapp\obj\Debug\netcoreapp3.1\AulaPOOWhatsapp.genruntimeconfig.cache
