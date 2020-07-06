@@ -30,7 +30,7 @@ namespace AulaPOOWhatsapp
             }
 
             //O primeiro contato é excluído.
-            contato1.Excluir("Thiago");
+            contato1.Excluir(contato1);
 
             //Uma nova lista atualizada é criada.
             List<Contato> contatos_atualizados = new List<Contato>();

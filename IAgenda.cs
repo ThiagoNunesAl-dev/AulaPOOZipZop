@@ -4,7 +4,7 @@ namespace AulaPOOWhatsapp
     public interface IAgenda
     {
         void Cadastrar (Contato contato);
-        void Excluir (string _termo);
+        void Excluir (Contato c);
         List<Contato> Listar ();
     }
 }

@@ -78,7 +78,7 @@ namespace AulaPOOWhatsapp
             return contatos;
         }
 
-        public void Excluir(string _termo)
+        public void Excluir(Contato c)
         {
             //Cria-se uma lista de itens para servir como "backup".
             List<string> linhasBackup = new List<string>();
@@ -89,8 +89,8 @@ namespace AulaPOOWhatsapp
                 while ((linhaBackup = file.ReadLine()) != null) {
                     linhasBackup.Add(linhaBackup);
                 }
-                //São removidos os itens da linha.
-                linhasBackup.RemoveAll(l => l.Contains(_termo));
+                //São removidos os itens da linha que contém as informações do objeto dado como argumento.
+                linhasBackup.RemoveAll(l => l.Contains(c.Nome));
             }
             //O arquivo agora é reescrito, sem o item removido.
             using (StreamWriter output = new StreamWriter(Path)) {
